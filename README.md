@@ -1,6 +1,6 @@
 # fastodo
 
- <img src="./assets/images/fastodo.png" width="300" alt="Fastodo App Screenshot start">
+ <img src="./assets/images/fastodo.png" width="300" alt="Fastodo App Icon" color="#0a7ea4" justify="center">
 
 A Simple To do List with progress bar
 
