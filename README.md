@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: flex; flex-direction: row;">
-  <img src="./assets/images/screenshots/screen0.jpg" width="200" style="margin-right: 10px;" alt="Fastodo App Screenshot start">
-  <img src="./assets/images/screenshots/screen1.jpg" width="200" style="margin-right: 10px;"alt="Fastodo App Screenshot with tasks and progress bar">
-  <img src="./assets/images/screenshots/screen2.jpg" width="200" style="margin-right: 10px;" alt="Fastodo App Screenshot with deleting task">
+  <img src="./assets/images/screenshots/screen0.jpg" width="200" style="margin-right: 22px;" alt="Fastodo App Screenshot start">
+  <img src="./assets/images/screenshots/screen1.jpg" width="200" style="margin-right: 22px;"alt="Fastodo App Screenshot with tasks and progress bar">
+  <img src="./assets/images/screenshots/screen2.jpg" width="200" style="margin-right: 22px;" alt="Fastodo App Screenshot with deleting task">
 </div>
