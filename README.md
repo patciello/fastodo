@@ -1,9 +1,10 @@
-# fastodo
+# Fastodo
 
-<p align="center">
+<div align="center">
   <img src="./assets/images/fastodo.png" width="300" alt="Fastodo App Icon">
-</p>
-
+  <h2 style="color: #0a7ea4;">Fastodo</h2>
+  <p>A Simple To do List with progress bar</p>
+</div>
 <h3 align="center" style="color: #0a7ea4;">A Simple To do List with progress bar</h3>
 
 <div style="display: flex; flex-direction: row;">
