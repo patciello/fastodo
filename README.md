@@ -8,6 +8,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <img src="./assets/images/screenshots/screen0.jpg" width="200" alt="Fastodo App Screenshot start">
+  <p> </p>
   <img src="./assets/images/screenshots/screen1.jpg" width="200" alt="Fastodo App Screenshot with tasks and progress bar">
 </div>
 
