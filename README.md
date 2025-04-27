@@ -4,7 +4,7 @@
   <p>A Simple To do List with progress bar</p>
 </div>
 
-<div  style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div  style="display: flex; flex-direction: row; align: center; justify-content: center;">
   <img src="./assets/images/screenshots/screen0.jpg" width="200" style="margin-right: 22px;" alt="Fastodo App Screenshot start">
   <img src="./assets/images/screenshots/screen1.jpg" width="200" style="margin-right: 22px;"alt="Fastodo App Screenshot with tasks and progress bar">
   <img src="./assets/images/screenshots/screen2.jpg" width="200" style="margin-right: 22px;" alt="Fastodo App Screenshot with deleting task">
